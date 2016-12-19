@@ -1,1 +1,1 @@
-# Modelling-Prediction-Infant-Mortality-Rate-using-R
+# Modeling & Predicting Infant Mortality Rate using R
